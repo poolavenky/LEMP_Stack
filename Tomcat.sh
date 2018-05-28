@@ -170,4 +170,4 @@ esac
 exit $?' >> /etc/init.d/tomcat8
 sudo chkconfig --add tomcat8
 sudo chkconfig tomcat8 on
-sudo /etc/init.d/tomcat8 start
+sudo /etc/init.d/tomcat stop

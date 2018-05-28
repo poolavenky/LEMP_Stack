@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script made for Application installtion
-#Author: Vinod.N K
+#Author: Venkky poola
 #Usage: Nginx, Java, PhP, OpenSSL, Gcc, Ulimit for portal installation
 #Distro : Linux -Centos, Rhel, and any fedora
 #Check whether root user is running the script
